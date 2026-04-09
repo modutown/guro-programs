@@ -43,9 +43,8 @@ def extract_target(title):
 def is_relevant(title):
     if any(k in title for k in EXCLUDE_KEYWORDS):
         return False
-    if any(k in title for k in INCLUDE_KEYWORDS):
-        return True
-    return False
+    return True
+
 
 def crawl_guro():
     results = []
