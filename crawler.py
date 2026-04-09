@@ -67,7 +67,13 @@ def crawl_guro():
             cols = row.select('td')
             date = cols[-1].get_text(strip=True) if cols else ''
             href = title_tag.get('href', '')
-            link = "https://www.guro.go.kr" + href if href.startswith('/') else href
+            if href.startswith('/'):
+    link = "https://www.guro.go.kr" + href
+elif href.startswith('.'):
+    link = "https://www.guro.go.kr/www/" + href.lstrip('./')
+else:
+    link = href
+
             results.append({
                 "title": title,
                 "link": link,
