@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10 06:20",
+  "updated": "2026-04-11 05:23",
   "items": [
     {
       "title": "2025년 사회복지법인 한국척추측만증재단 세입・세출 결산서 및 후원금 수입・사용 결과 보고서 공고NEW",
@@ -18,8 +18,32 @@
       "target": "전체"
     },
     {
-      "title": "주민등록 무단전출자 직권조치 결과 공고NEW",
-      "link": "https://www.guro.go.kr/www/selectBbsNttGosiView.do?bbsNo=663&nttNo=50042&rowNum=2&&pageUnit=10&key=1791&pageIndex=1",
+      "title": "「국민건강증진법」 위반 과태료 부과 및 독촉고지서 반송분 공시송달NEW",
+      "link": "https://www.guro.go.kr/www/selectBbsNttGosiView.do?bbsNo=663&nttNo=50050&rowNum=4&&pageUnit=10&key=1791&pageIndex=1",
+      "date": "2026-04-10",
+      "source": "구로구청",
+      "category": "기타",
+      "target": "전체"
+    },
+    {
+      "title": "2026년 방역소독사업 기간제근로자 서류심사 합격자 및 면접심사 계획 공고NEW",
+      "link": "https://www.guro.go.kr/www/selectBbsNttGosiView.do?bbsNo=663&nttNo=50047&rowNum=5&&pageUnit=10&key=1791&pageIndex=1",
+      "date": "2026-04-10",
+      "source": "구로구청",
+      "category": "기타",
+      "target": "전체"
+    },
+    {
+      "title": "2026년 구로구 서울 동행일자리 사업 빗물받이 전담관리자 모집공고NEW",
+      "link": "https://www.guro.go.kr/www/selectBbsNttGosiView.do?bbsNo=663&nttNo=50045&rowNum=6&&pageUnit=10&key=1791&pageIndex=1",
+      "date": "2026-04-10",
+      "source": "구로구청",
+      "category": "기타",
+      "target": "전체"
+    },
+    {
+      "title": "위반(무허가)건축물 행정처분 통지서 반송분 공시송달 공고NEW",
+      "link": "https://www.guro.go.kr/www/selectBbsNttGosiView.do?bbsNo=663&nttNo=50039&rowNum=8&&pageUnit=10&key=1791&pageIndex=1",
       "date": "2026-04-10",
       "source": "구로구청",
       "category": "기타",
@@ -27,42 +51,10 @@
     },
     {
       "title": "기간제근로자(개인지방소득세 신고도우미) 서류심사 합격자 발표 및 면접심사 공고NEW",
-      "link": "https://www.guro.go.kr/www/selectBbsNttGosiView.do?bbsNo=663&nttNo=50032&rowNum=4&&pageUnit=10&key=1791&pageIndex=1",
+      "link": "https://www.guro.go.kr/www/selectBbsNttGosiView.do?bbsNo=663&nttNo=50032&rowNum=10&&pageUnit=10&key=1791&pageIndex=1",
       "date": "2026-04-10",
       "source": "구로구청",
       "category": "기타",
-      "target": "전체"
-    },
-    {
-      "title": "구로구 청소년상담복지센터 및 학교밖청소년지원센터 위탁운영체 선정 결과 공고NEW",
-      "link": "https://www.guro.go.kr/www/selectBbsNttGosiView.do?bbsNo=663&nttNo=50025&rowNum=5&&pageUnit=10&key=1791&pageIndex=1",
-      "date": "2026-04-10",
-      "source": "구로구청",
-      "category": "복지",
-      "target": "청소년/청년"
-    },
-    {
-      "title": "제344회 서울특별시 구로구의회 임시회 집회 공고NEW",
-      "link": "https://www.guro.go.kr/www/selectBbsNttGosiView.do?bbsNo=663&nttNo=50015&rowNum=6&&pageUnit=10&key=1791&pageIndex=1",
-      "date": "2026-04-10",
-      "source": "구로구청",
-      "category": "기타",
-      "target": "전체"
-    },
-    {
-      "title": "개봉2동 자치회관 프로그램 강사 모집 공고NEW",
-      "link": "https://www.guro.go.kr/www/selectBbsNttGosiView.do?bbsNo=663&nttNo=50038&rowNum=7&&pageUnit=10&key=1791&pageIndex=1",
-      "date": "2026-04-10",
-      "source": "구로구청",
-      "category": "기타",
-      "target": "전체"
-    },
-    {
-      "title": "2025년 사회복지법인 에덴복지재단 세입・세출 결산서 및 후원금 수입・사용 결과 보고서 공고NEW",
-      "link": "https://www.guro.go.kr/www/selectBbsNttGosiView.do?bbsNo=663&nttNo=50031&rowNum=8&&pageUnit=10&key=1791&pageIndex=1",
-      "date": "2026-04-09",
-      "source": "구로구청",
-      "category": "복지",
       "target": "전체"
     }
   ]
